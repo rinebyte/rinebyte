@@ -40,7 +40,3 @@ I specialize in building functional, real-world applications:
 * **Email:** rinezpz@gmail.com
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinebyte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
