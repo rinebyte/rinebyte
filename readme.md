@@ -1,6 +1,6 @@
-# Hi there! I'm Rinebyte 🚀
+# Hi there! I'm Rinebyte | Vibecoder 🚀
 
-I am a **Full-Stack Web Developer** dedicated to building robust, data-driven applications with a focus on performance and scalability. I enjoy bridging the gap between complex backend logic and seamless user experiences.
+I am a **Vibecoder** and **Full-Stack Developer** who thrives on building fast, modern, and scalable web applications. I mix the speed of AI-assisted coding with a deep understanding of both SQL and NoSQL architectures.
 
 ---
 
@@ -8,33 +8,39 @@ I am a **Full-Stack Web Developer** dedicated to building robust, data-driven ap
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Node.js, Drizzle ORM |
-| **Database** | PostgreSQL |
-| **Frontend** | jQuery, HTML5, CSS3 |
-| **Server/DevOps** | Nginx |
+| **Frontend** | **React**, **Vite**, jQuery, HTML5, CSS3 |
+| **Backend** | **Node.js** |
+| **Database** | **PostgreSQL** (with Drizzle ORM) & **MongoDB** |
+| **DevOps & Server** | Nginx |
 | **Optimization** | SEO (Search Engine Optimization) |
 
 ---
 
-### 📂 What I've Been Building
+### 📂 What I've Been Vibing On
 
-My recent projects reflect my interest in financial systems, real-time communication, and utility tools:
+I specialize in building functional, real-world applications:
 
-* **Financial Management:** Developed a transaction journal application and systems for managing customer financial data.
-* **Real-Time Apps:** Built a live chat application for instant communication.
-* **Infrastructure Tools:** Created a domain monitoring system and a shortlink management platform.
-* **Web Presence:** Designed high-converting landing pages (including an Online Gaming Cafe) and testimonial display systems.
+* **Financial Systems:** Developing transaction journals and customer financial management platforms.
+* **Real-Time Solutions:** Building live chat applications for seamless user interaction.
+* **Infrastructure & Utilities:** Creating domain monitoring systems and shortlink management tools.
+* **Business Growth:** Designing SEO-optimized landing pages and testimonial management systems.
 
 ---
 
-### 🧠 Current Focus & Interests
+### 🧠 Current Focus
 
-* **Database Architecture:** Deepening my expertise in **PostgreSQL** and streamlining workflows with **Drizzle ORM**.
-* **Performance:** Optimizing web servers using **Nginx** for maximum efficiency.
-* **Search Visibility:** Implementing advanced **SEO** strategies to ensure web applications rank effectively.
+* **Modern Frontend:** Crafting lightning-fast UIs using **React + Vite**.
+* **Data Strategy:** Leveraging the power of **PostgreSQL** for structured data and **MongoDB** for flexibility.
+* **Vibecoding:** Using AI to bridge the gap between idea and execution at record speed.
+
+---
+
+### 📫 Let's Connect!
+
+* **Email:** rinezpz@gmail.com
 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rinebyte&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rinebyte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
