@@ -1,10 +1,10 @@
-# Hi there! I'm Rinebyte | Vibecoder 🚀
+# Hi there! I'm Rinebyte | Vibecoder
 
 I am a **Vibecoder** and **Full-Stack Developer** who thrives on building fast, modern, and scalable web applications. I mix the speed of AI-assisted coding with a deep understanding of both SQL and NoSQL architectures.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -16,7 +16,7 @@ I am a **Vibecoder** and **Full-Stack Developer** who thrives on building fast, 
 
 ---
 
-### 📂 What I've Been Vibing On
+### What I've Been Vibing On
 
 I specialize in building functional, real-world applications:
 
@@ -27,7 +27,7 @@ I specialize in building functional, real-world applications:
 
 ---
 
-### 🧠 Current Focus
+### Current Focus
 
 * **Modern Frontend:** Crafting lightning-fast UIs using **React + Vite**.
 * **Data Strategy:** Leveraging the power of **PostgreSQL** for structured data and **MongoDB** for flexibility.
@@ -35,7 +35,7 @@ I specialize in building functional, real-world applications:
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 * **Email:** rinezpz@gmail.com
 
