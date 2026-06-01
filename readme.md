@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/rinebyte">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rinebyte+%F0%9F%91%8B;Backend+%26+Bot+Developer;Building+things+with+Go+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rinebyte+%F0%9F%91%8B;Backend+%26+Bot+Developer;Building+things+with+TypeScript+%26+Bun" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 ```text
 📍  Jakarta, Indonesia
 ⚙️  Backend & automation — bots, APIs, and small tools that stay online
-🌱  Currently sharpening my Go and Python
+🌱  Currently sharpening my TypeScript and the Bun ecosystem
 ```
 
 ---
@@ -26,10 +26,10 @@
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
